@@ -1,0 +1,8 @@
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\bin\Debug\NoCaptchaReCaptcha.dll.config
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\bin\Debug\NoCaptchaReCaptcha.dll
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\bin\Debug\NoCaptchaReCaptcha.pdb
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\bin\Debug\Newtonsoft.Json.dll
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\bin\Debug\Newtonsoft.Json.xml
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\obj\Debug\NoCaptchaReCaptcha.csprojResolveAssemblyReference.cache
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\obj\Debug\NoCaptchaReCaptcha.dll
+C:\Dev\Sca.WebCMS\EpiServerSeven\src\NoCaptchaReCaptcha\obj\Debug\NoCaptchaReCaptcha.pdb
